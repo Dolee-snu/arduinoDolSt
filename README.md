@@ -1,3 +1,2 @@
 # arduinoDolSt
-뭐라고?
-ego
+arduino Dolee Study

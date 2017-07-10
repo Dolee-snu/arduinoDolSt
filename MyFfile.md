@@ -1,3 +1,3 @@
 # arduinoDolSt
-dkanrjsk
-상관없어
+Programming Arduino
+Getting Started with Sketches
